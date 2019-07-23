@@ -169,7 +169,7 @@ body {
     if (totalPrize) {
       let prizeSplits = pickUsingWeights(weightedPrizeSplits[totalPrize.toString()][0],
                                          weightedPrizeSplits[totalPrize.toString()][1]);
-      let numberSplit = prizeSplits[0];
+      let numberSplit = prizeSplits;
       let valueSplit = Math.floor(parseInt(totalPrize, 10) / numberSplit);
       for (let index = 0; index < numberSplit; index += 1) {
         items.push([winningNumber, valueSplit]);
