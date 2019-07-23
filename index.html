@@ -167,8 +167,8 @@ body {
     let numberFillerPrizes = numberScratchItems;
     let totalPrize = getPrizeAmount();
     if (totalPrize) {
-      let prizeSplits = pickUsingWeights(weightedPrizeSplits[str(totalPrize)][0],
-                                         weightedPrizeSplits[str(totalPrize)][1]);
+      let prizeSplits = pickUsingWeights(weightedPrizeSplits[totalPrize.toString()][0],
+                                         weightedPrizeSplits[totalPrize.toString()][1]);
       let numberSplit = prizeSplits[0];
       let valueSplit = Math.floor(parseInt(totalPrize, 10) / numberSplit);
       for (let index = 0; index < numberSplit; index += 1) {
