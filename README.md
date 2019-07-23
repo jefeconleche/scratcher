@@ -3,11 +3,17 @@ https://jefeconleche.github.io/scratcher/index.html
 
 EXAMPLE CODES (Prize | Code)
 10000 ticket | 35499298650900126
+
 1500 ticket | 35199398050900226
+
 1000 ticket | 35299914350700526
+
 500 ticket | 35199788200900226
+
 200 ticket | 35899237900800626
+
 100 ticket | 35599449600800626
+
 0 ticket | 35159938800700326
 
 247 Scratcher Game Odds
