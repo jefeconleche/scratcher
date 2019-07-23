@@ -176,6 +176,9 @@ body {
       }
       numberFillerPrizes = numberScratchItems - numberSplit;
     }
+    if (totalPrize == null) {
+      alert("Invalid ticket id");
+    }
     if (numberFillerPrizes) {
       let nonWinningNumbers = [];
       for (let index = 1; index < numberMax + 1; index += 1) {
