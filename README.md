@@ -1,3 +1,6 @@
+Scratcher Link
+https://jefeconleche.github.io/scratcher/index.html
+
 247 Scratcher Game Odds
 
 Odds of winning a prize on 247 scratchers is 1:2.417.
