@@ -5,11 +5,17 @@ Odds of winning a prize on 247 scratchers is 1:2.417.
 Odds of Prizes are the following rounded to the nearest whole number:
 
 Prize  | Odds (1 in*) | Total Tickets
+
 10,000 | 	2,000	  |       5
+
  1,500 | 	  120	  |      83
+ 
  1,000 | 	  120	  |      83
+ 
    500 | 	   60	  |     167
+   
    200 | 	   13	  |     800
+   
    100 |	    3	  |    3000
 
 Yields an expected value of 80.1 at cost of 100 per ticket.
